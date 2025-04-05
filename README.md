@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Jonas Deinhardt 👋
 
-<!--
-**JDeinhardt/jdeinhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student passionate about technology, coding, and building cool projects! Currently, I'm learning and working with **SvelteKit** and **FastAPI**.
 
-Here are some ideas to get you started:
+## 🚀 Technologies I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: SvelteKit
+- **Backend**: FastAPI
+- **Languages**: Python, JavaScript, C#
+- **Tools**: Git, GitHub, VisualStudio, VS Code
+
+## 🔧 Currently Working On
+
+- Building interactive web applications with **SvelteKit**
+- Developing REST APIs with **FastAPI**
+  
+## 🌱 Learning Goals
+
+- Master web development with **SvelteKit** and **FastAPI**
+- Explore more about hardware programming and IoT
+- Improve problem-solving and algorithm skills
+
+## 📫 How to Reach Me
+- Email: jonas@honigbrottoaster.de
