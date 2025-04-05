@@ -21,4 +21,4 @@ I'm a student passionate about technology, coding, and building cool projects! C
 - Improve problem-solving and algorithm skills
 
 ## 📫 How to Reach Me
-- Email: jonas@honigbrottoaster.de
+- Public email: jonas@honigbrottoaster.de
