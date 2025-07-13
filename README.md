@@ -4,19 +4,19 @@ I'm a student passionate about technology, coding, and building cool projects! C
 
 ## 🚀 Technologies I'm Learning
 
-- **Frontend**: SvelteKit
-- **Backend**: FastAPI
+- **Frontend**: React
+- **Backend**: ASP.NET Core, SupaBase
 - **Languages**: Python, JavaScript, C#
 - **Tools**: Git, GitHub, VisualStudio, VS Code
 
 ## 🔧 Currently Working On
 
-- Building interactive web applications with **SvelteKit**
-- Developing REST APIs with **FastAPI**
+- Building interactive web applications with **React / tailwindcss**
+- Developing APIs with **ASP.NET Core**
   
 ## 🌱 Learning Goals
 
-- Master web development with **SvelteKit** and **FastAPI**
+- Master web development with **React** and **ASP.NET Core**
 - Explore more about hardware programming and IoT
 - Improve problem-solving and algorithm skills
 
