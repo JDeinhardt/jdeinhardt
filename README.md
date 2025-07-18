@@ -1,12 +1,12 @@
 # Hi there, I'm Jonas Deinhardt 👋
 
-I'm a student passionate about technology, coding, and building cool projects! Currently, I'm learning and working with **SvelteKit** and **FastAPI**.
+I'm a student passionate about technology, coding, and building cool projects! Currently, I'm learning and working with **React** and **ASP.NET Core**.
 
 ## 🚀 Technologies I'm Learning
 
 - **Frontend**: React
 - **Backend**: ASP.NET Core, SupaBase
-- **Languages**: Python, JavaScript, C#
+- **Languages**: Python, JavaScript, TypeScript, C#
 - **Tools**: Git, GitHub, VisualStudio, VS Code
 
 ## 🔧 Currently Working On
